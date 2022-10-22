@@ -33,3 +33,15 @@ sign out:
         return () => unsubscribe();
     }, []);
 */
+
+/* 
+Firebase hosting: 
+one time pc install and firebase login
+
+for each project: 
+1. firebase init
+2. make sure for public directory: select build
+3. single page application yes
+4.  for every deploy npm run build
+5. firebase deploy
+*/
