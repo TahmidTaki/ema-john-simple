@@ -18,3 +18,14 @@
 .header a:hover {
     color: orange;
 }
+
+.log-out-btn {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.log-out-btn:hover {
+    background-color: antiquewhite;
+    font-size: medium;
+}

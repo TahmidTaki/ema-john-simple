@@ -1,6 +1,6 @@
 # Ema-John e-Commerce site
 
-Live site can be accesed: [Here](https://634b054fe1f2e460513dcc36--hilarious-dasik-607746.netlify.app/).
+Live site can be accesed: [Here](https://634b054fe1f2e460513dcc36--hilarious-dasik-607746.netlify.app/cpm).
 
 ## This web application was build using ReactJS
 
